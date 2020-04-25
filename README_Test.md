@@ -1,5 +1,5 @@
 
-  ![License shield](https://img.shields.io/github/license/hmsalmans/https://github.com/hmsalmans/HW-7-ReadMe-Generator?style=plastic) ![Repo size shield](https://img.shields.io/github/repo-size/hmsalmans/https://github.com/hmsalmans/HW-7-ReadMe-Generator?style=plastic) ![Language shield](https://img.shields.io/github/languages/top/hmsalmans/https://github.com/hmsalmans/HW-7-ReadMe-Generator?style=plastic)
+  ![License shield](https://img.shields.io/github/license/hmsalmans/https://github.com/hmsalmans?style=plastic) ![Repo size shield](https://img.shields.io/github/repo-size/hmsalmans/https://github.com/hmsalmans?style=plastic) ![Language shield](https://img.shields.io/github/languages/top/hmsalmans/https://github.com/hmsalmans?style=plastic)
   
   # Title
   Readme Generator
