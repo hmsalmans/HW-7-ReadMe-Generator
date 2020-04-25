@@ -58,7 +58,7 @@ function promptUser() {
         {
             type: "input",
             message: "What email can users reach you at if they have questions?",
-            name: "questions"
+            name: "email"
         },
         
       ]);
@@ -75,7 +75,7 @@ promptUser().then(async function(response) {
     
     const markdown = generateMarkdown(response);
 
-    fs.writeFile('testREADME.md', markdown, function(error) {
+    fs.writeFile('README_Test.md', markdown, function(error) {
         if (error) {
             return console.log(error);
         } else {
@@ -90,16 +90,3 @@ promptUser().then(async function(response) {
 
 
 
-
-const questions = [
-
-];
-
-function writeToFile("Readme.md", data) {
-}
-
-function init() {
-
-}
-
-init();
