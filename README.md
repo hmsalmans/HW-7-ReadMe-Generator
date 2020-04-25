@@ -2,8 +2,10 @@
 
 ## Command line application to generate a Readme file. 
 
-The README will be produced with the following:
-
+### Requirement:
+    Node module is deleted to save the space. Pls use "npm install" before running the application.    
+### Production
+    The README will be produced with the followings:
 
 - Project title
 - Description
