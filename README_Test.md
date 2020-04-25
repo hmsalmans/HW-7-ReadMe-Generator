@@ -1,5 +1,5 @@
 
-  ![License shield](https://img.shields.io/github/license/hmsalmans/https://github.com/hmsalmans?style=plastic) ![Repo size shield](https://img.shields.io/github/repo-size/hmsalmans/https://github.com/hmsalmans?style=plastic) ![Language shield](https://img.shields.io/github/languages/top/hmsalmans/https://github.com/hmsalmans?style=plastic)
+  ![License shield](https://img.shields.io/github/license/hmsalmans/hmsalmans//HW-7-ReadMe-Generator?style=plastic) ![Repo size shield](https://img.shields.io/github/repo-size/hmsalmans/hmsalmans//HW-7-ReadMe-Generator?style=plastic) ![Language shield](https://img.shields.io/github/languages/top/hmsalmans/hmsalmans//HW-7-ReadMe-Generator?style=plastic)
   
   # Title
   Readme Generator
@@ -15,13 +15,13 @@
   *   Feedback
   
   ## Description
-  ommand Line Application which generates Redame File
+  Command Line Application which generates Redame File
   
   ## Version
   1.0.0
   
   ## Usage
-  Learning purpose
+  Creating Repos
   
   ## License
   MIT
@@ -31,11 +31,11 @@
   ![Github avatar](https://github.com/hmsalmans.png?size=40) github.com/hmsalmans
   
   ## Contributors
-  Myself
+  MYSELF
   
   ## Run Test
   npm test
   
-  ## Feedback
+  ## Feedback (Please Contact)
   <hmsalmans1@gmail.com>
   
