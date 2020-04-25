@@ -1,8 +1,8 @@
 
-  ![License shield](https://img.shields.io/github/license/hmsalmans/github.com/johncosper?style=plastic) ![Repo size shield](https://img.shields.io/github/repo-size/hmsalmans/github.com/johncosper?style=plastic) ![Language shield](https://img.shields.io/github/languages/top/hmsalmans/github.com/johncosper?style=plastic)
+  ![License shield](https://img.shields.io/github/license/hmsalmans/hmsalmans?style=plastic) ![Repo size shield](https://img.shields.io/github/repo-size/hmsalmans/hmsalmans?style=plastic) ![Language shield](https://img.shields.io/github/languages/top/hmsalmans/hmsalmans?style=plastic)
   
   # Title
-  
+  Readme Generator
   
   ## Table of Contents
   *   Description
@@ -21,7 +21,7 @@
   1.0.0
   
   ## Usage
-  node index.js
+  Learning
   
   ## License
   MIT
@@ -34,8 +34,8 @@
   Myself
   
   ## Run Test
-  npm test
+  npn test
   
   ## Feedback
-  <hmsalmans@gmail.com>
+  <hmsalmans1@gmail.com>
   
