@@ -37,7 +37,7 @@ function generateMarkdown(response) {
   ## Run Test
   ${response.test}
   
-  ## Feedback
+  ## Feedback (Please Contact)
   <${response.email}>
   `;
   }
